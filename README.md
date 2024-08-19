@@ -3,10 +3,10 @@
     </a>
 </h1>
 
-Bem-vindo ao meu perfil do GitHub! Eu sou o Ludevofc.
+Welcome to my GitHub profile! I'm Ludevofc.
 
-- 🔭 Atualmente estou trabalhando em projetos emocionantes relacionados a ɯǝʌıℲ e the sims mods...
-- 👯 Estou procurando colaborar em projetos interessantes e desafiadores...
+- 🔭 I'm currently working on exciting projects related to ɯǝʌıℲ and the sims mods...
+- 👯 I'm looking to collaborate on interesting and challenging projects...
   
 <div align="center">
   <a href="https://github.com/Ludevofc"></a>
