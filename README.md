@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá+👋;Me+chamo+Luke+Dev;Tenho+20+anos...;Muito+prazer!&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+👋; Me+call+Luke+Dev;...;A lot+pleasure!&center=true&size=25">
     </a>
 </h1>
 
@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm Ludevofc.
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Nos+vemos+em+breve&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=We+see+in+soon&center=true&size=25">
     </a>
 </h1>
 
